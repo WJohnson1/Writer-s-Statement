@@ -46,8 +46,8 @@ h1 {
 	font-size: 100px;
 }
 #Title {
-    color: #1FE0E6;
-    background-color:transparent;
+    color: #01FEF6;
+    background-color: rgba(0, 0, 0,0.65);
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     font-size: 75px;
 }
