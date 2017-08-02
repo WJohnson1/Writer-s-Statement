@@ -28,6 +28,12 @@ img {
     right: 16px;
     font-size: 18px;
 }
+.topcenter {
+    position: absolute;
+    top: 8px;
+    left: 500px;
+    font-size: 18px;
+}
 .topleft {
     position: absolute;
     top: 8px;
