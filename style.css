@@ -98,6 +98,9 @@ h3 {
   font-size: 25px;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
+h2 {
+  color: #FFFFFF;
+}
 #home{
 	width: 50px;
   height: 50px;
